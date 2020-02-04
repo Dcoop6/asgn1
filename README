@@ -1,0 +1,18 @@
+Title : ASGN2 BIG INT CALC 
+Authour: David CooperDate:
+2/3/2019 ID#1672051 
+Modified Code list 
+1)file_sys.h: 
+Lots of methods added 
+2)file_sys.cpp: 
+Many methods implemented 
+3)commands.cpp: 
+command functions completed  
+5)main.cpp 
+Small changed to event control flow for error prevention. 
+7)MAKEFILE:Builds the associated files, to make the ydc executable 
+All other submitted files were source code 
+provided by Prof. Mackey.Additionally, this 
+program was done soley by David Cooper,no 
+outside help and assistance was used aside
+from the text book and other C++ related documentation.
